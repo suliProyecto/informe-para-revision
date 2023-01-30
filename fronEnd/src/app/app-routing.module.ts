@@ -7,7 +7,7 @@ import { FooterComponent } from './componentes/footer/footer.component';
 
 import { HabilidadesComponent } from './componentes/habilidades/habilidades.component';
 import { IndexComponent } from './componentes/index/index.component';
-import { LoginComponent } from "./componentes/login/LoginComponent";
+import { LoginComponent } from './componentes/login/login.component';
 import { Pagina404Component } from './componentes/pagina404/pagina404.component';
 import { SobremiComponent } from './componentes/sobremi/sobremi.component';
 

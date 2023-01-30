@@ -4,7 +4,6 @@ import { HttpClientModule } from '@angular/common/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { LoginComponent } from "./componentes/login/LoginComponent";
 import { SobremiComponent } from './componentes/sobremi/sobremi.component';
 import { BannerComponent } from './componentes/banner/banner.component';
 import { ExperienciaComponent } from './componentes/experiencia/experiencia.component';
@@ -19,6 +18,7 @@ import { ExperienciaModalComponent } from './modales/experiencia-modal/experienc
 import { HabilidadesModalComponent } from './modales/habilidades-modal/habilidades-modal.component';
 import { IndexComponent } from './componentes/index/index.component';
 import { PruebaComponent } from './componentes/prueba/prueba.component';
+import { LoginComponent } from './componentes/login/login.component';
 
 @NgModule({
   declarations: [
